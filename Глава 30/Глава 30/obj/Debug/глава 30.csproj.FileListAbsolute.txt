@@ -1,0 +1,14 @@
+C:\Users\eafil\source\repos\глава 30\глава 30\bin\Debug\глава 30.exe.config
+C:\Users\eafil\source\repos\глава 30\глава 30\bin\Debug\глава 30.exe
+C:\Users\eafil\source\repos\глава 30\глава 30\bin\Debug\глава 30.pdb
+C:\Users\eafil\source\repos\глава 30\глава 30\obj\Debug\глава 30.csprojAssemblyReference.cache
+C:\Users\eafil\source\repos\глава 30\глава 30\obj\Debug\глава 30.csproj.CoreCompileInputs.cache
+C:\Users\eafil\source\repos\глава 30\глава 30\obj\Debug\глава 30.exe
+C:\Users\eafil\source\repos\глава 30\глава 30\obj\Debug\глава 30.pdb
+C:\Users\Panda\OneDrive\Рабочий стол\e.a.filonenko-bk.ru-master\e.a.filonenko-bk.ru-master\Глава 30\глава 30\bin\Debug\глава 30.exe.config
+C:\Users\Panda\OneDrive\Рабочий стол\e.a.filonenko-bk.ru-master\e.a.filonenko-bk.ru-master\Глава 30\глава 30\bin\Debug\глава 30.exe
+C:\Users\Panda\OneDrive\Рабочий стол\e.a.filonenko-bk.ru-master\e.a.filonenko-bk.ru-master\Глава 30\глава 30\bin\Debug\глава 30.pdb
+C:\Users\Panda\OneDrive\Рабочий стол\e.a.filonenko-bk.ru-master\e.a.filonenko-bk.ru-master\Глава 30\глава 30\obj\Debug\глава 30.csprojAssemblyReference.cache
+C:\Users\Panda\OneDrive\Рабочий стол\e.a.filonenko-bk.ru-master\e.a.filonenko-bk.ru-master\Глава 30\глава 30\obj\Debug\глава 30.csproj.CoreCompileInputs.cache
+C:\Users\Panda\OneDrive\Рабочий стол\e.a.filonenko-bk.ru-master\e.a.filonenko-bk.ru-master\Глава 30\глава 30\obj\Debug\глава 30.exe
+C:\Users\Panda\OneDrive\Рабочий стол\e.a.filonenko-bk.ru-master\e.a.filonenko-bk.ru-master\Глава 30\глава 30\obj\Debug\глава 30.pdb
